@@ -1,0 +1,245 @@
+
+/* Add font files for Pacifico */
+@font-face {
+  font-family: 'Pacifico';
+  src: url('fonts/pacifico.woff2') format('woff2'),
+       url('fonts/pacifico.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+:root {
+  --font-family-pacifico: 'Pacifico', sans-serif;
+  --text-black: rgba(0, 0, 0, 1);
+}
+
+.text-black {
+  color: var(--text-black);
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.rectangle-1-2 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 224, 192, 1);
+}
+
+.text-3 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  box-shadow: 9px 5px 0px 0px rgba(0,0,0,0.5);
+  font-family: var(--font-family-pacifico);
+  font-weight: normal;
+  font-size: 70px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-black);
+}
+
+.text-4 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  box-shadow: 9px 5px 0px 0px rgba(0,0,0,0.5);
+  font-family: var(--font-family-pacifico);
+  font-weight: normal;
+  font-size: 70px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-black);
+}
+
+.text-5 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  box-shadow: 9px 5px 0px 0px rgba(0,0,0,0.5);
+  font-family: var(--font-family-pacifico);
+  font-weight: normal;
+  font-size: 70px;
+  text-decoration: none;
+  text-transform: none;
+  color: var(--text-black);
+}
+
+.rectangle-5-6 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.rectangle-6-7 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.polygon-1-8 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 224, 192, 1);
+  border: none;
+  outline: none;
+}
+
+.rectangle-2-9 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.rectangle-3-10 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.rectangle-4-11 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 0, 0, 1);
+}
+
+.polygon-2-12 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 224, 192, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-1-13 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-9-14 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-2-15 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-7-16 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-3-17 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-4-18 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-10-19 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-5-20 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-6-21 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.ellipse-8-22 {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  fill: rgba(255, 240, 240, 1);
+  border: none;
+  outline: none;
+}
+
+.frame-1-1 {
+@media (max-width: 1440px) {
+  .frame-1-1 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .frame-1-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  background-color: rgba(255, 255, 255, 1);
+}
