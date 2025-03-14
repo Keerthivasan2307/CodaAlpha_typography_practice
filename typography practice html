@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<div class="rectangle-1-2"></div>
+<p class="text-3"><span class="text-black">Be Bright</span></p>
+<p class="text-4"><span class="text-black">Be Happy</span></p>
+<p class="text-5"><span class="text-black">Be You</span></p>
+<div class="rectangle-5-6"></div>
+<div class="rectangle-6-7"></div>
+<img src="images/polygon-1-8.svg" class="polygon-1-8" alt="polygon-1" />
+<div class="rectangle-2-9"></div>
+<div class="rectangle-3-10"></div>
+<div class="rectangle-4-11"></div>
+<img src="images/polygon-2-12.svg" class="polygon-2-12" alt="polygon-2" />
+<img src="images/ellipse-1-13.svg" class="ellipse-1-13" alt="ellipse-1" />
+<img src="images/ellipse-9-14.svg" class="ellipse-9-14" alt="ellipse-9" />
+<img src="images/ellipse-2-15.svg" class="ellipse-2-15" alt="ellipse-2" />
+<img src="images/ellipse-7-16.svg" class="ellipse-7-16" alt="ellipse-7" />
+<img src="images/ellipse-3-17.svg" class="ellipse-3-17" alt="ellipse-3" />
+<img src="images/ellipse-4-18.svg" class="ellipse-4-18" alt="ellipse-4" />
+<img src="images/ellipse-10-19.svg" class="ellipse-10-19" alt="ellipse-10" />
+<img src="images/ellipse-5-20.svg" class="ellipse-5-20" alt="ellipse-5" />
+<img src="images/ellipse-6-21.svg" class="ellipse-6-21" alt="ellipse-6" />
+<img src="images/ellipse-8-22.svg" class="ellipse-8-22" alt="ellipse-8" />
+</div>
+
+</body>
+</html>
+
